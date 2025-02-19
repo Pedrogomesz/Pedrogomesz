@@ -35,7 +35,11 @@ Me chamo Pedro Gomes, tenho 19 anos sou natural de São Paulo. concluí o ensino
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
-
+<br>
+<br>
+<br>
+<div>
  <img align="" alt="Rafa-CSS" height="200px" width="" src="https://cdn.picrew.me/shareImg/org/202502/1322863_N6V6VYFb.png">
+</div>
 
 
