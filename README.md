@@ -1,3 +1,51 @@
+<style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #1e1e1e;
+            color: #ffffff;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 28px;
+            margin: 0;
+        }
+        .container {
+            position: relative;
+            display: inline-block;
+        }
+        .text {
+            display: inline-block;
+            overflow: hidden;
+            white-space: nowrap;
+            width: 0;
+            animation: typing 3s steps(30, end) infinite;
+        }
+        .cursor {
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 3px;
+            height: 100%;
+            background-color: #ffffff;
+            animation: blink 0.7s infinite;
+        }
+        @keyframes typing {
+            0% { width: 0; }
+            50% { width: 100%; }
+            100% { width: 0; }
+        }
+        @keyframes blink {
+            50% { background-color: transparent; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <span class="text">Olá, bem-vindo ao meu GitHub!</span>
+        <span class="cursor"></span>
+    </div>
+ 
 # 🧑‍💻 Pedro Gomes
 **`Desenvolvedor Front-end`**
 
