@@ -16,8 +16,6 @@ Me chamo Pedro Gomes, tenho 19 anos sou natural de São Paulo. concluí o ensino
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="" alt="Rafa-CSS" height="200px" width="" src="https://cdn.picrew.me/shareImg/org/202502/1322863_N6V6VYFb.png">
- 
 </div>
   
 <hr>
@@ -38,5 +36,6 @@ Me chamo Pedro Gomes, tenho 19 anos sou natural de São Paulo. concluí o ensino
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
+ <img align="" alt="Rafa-CSS" height="200px" width="" src="https://cdn.picrew.me/shareImg/org/202502/1322863_N6V6VYFb.png">
 
 
