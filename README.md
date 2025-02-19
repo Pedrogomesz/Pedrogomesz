@@ -39,12 +39,17 @@
             50% { background-color: transparent; }
         }
     </style>
+    
 </head>
+
 <body>
+        
     <div class="container">
         <span class="text">Olá, bem-vindo ao meu GitHub!</span>
         <span class="cursor"></span>
     </div>
+
+</body>
  
 # 🧑‍💻 Pedro Gomes
 **`Desenvolvedor Front-end`**
