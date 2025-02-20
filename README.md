@@ -38,8 +38,5 @@ Me chamo Pedro Gomes, tenho 19 anos sou natural de São Paulo. concluí o ensino
 <br>
 <br>
 <br>
-<div>
- <img align="" alt="Rafa-CSS" height="200px" width="" src="file:///C:/Users/rockt/Downloads/wmremove-transformed.png">
-</div>
 
 
