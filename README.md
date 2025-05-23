@@ -4,8 +4,7 @@
 
 Me chamo Pedro Gomes, tenho 19 anos sou natural de São Paulo. concluí o ensino médio no Objetivo Prime. Atualmente
 , estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
- Sou apaixonado por aprender novas tecnologia, Se quiser acompanhar minha jornada,
-  me siga no Instagram: "[@pedroo.gomez](https://www.instagram.com/pedroo.gomesz/). Bora crescer juntos!
+ Sou apaixonado por aprender novas tecnologias.
 
   <hr>
 
