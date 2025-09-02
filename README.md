@@ -2,7 +2,7 @@
 # 🧑‍💻 Pedro Gomes
 **`Desenvolvedor Front-end`**
 
-Me chamo Pedro Gomes, tenho 19 anos sou natural de São Paulo. concluí o ensino médio no Objetivo Prime. Atualmente
+Me chamo Pedro Gomes, tenho 20 anos sou natural de São Paulo. concluí o ensino médio no Objetivo Prime. Atualmente
 , estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
  Sou apaixonado por aprender novas tecnologias.
 
